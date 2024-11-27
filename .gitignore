@@ -17,3 +17,5 @@ dist/
 
 # VS Code settings
 .vscode/
+
+venv/
